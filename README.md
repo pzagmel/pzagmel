@@ -5,4 +5,4 @@
 
 ### Lenguajes
 
-<i class="fa-brands fa-html5"></i>
+[<img align="left alt="asd width="22px" src="https://raw-githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>]
