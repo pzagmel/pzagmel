@@ -1,10 +1,10 @@
-### Hola, Soy Pedro Zagal Melani - Full Stack Web Developer Jr!
+## Hola, Soy Pedro Zagal Melani - Full Stack Web Developer Jr!
 
-- 🌱Actualmente aprendiendo todo 🚀
-- 
-- 🥅Amante del deporte y la vida al aire libre 🚵‍♂️
+- 🌱Actualmente aprendiendo todo 🤓
+- 🦴Un Kinesiólogo incursionando en el mundo de la tecnología💻🚀
+- ⚽Amante del deporte y la vida al aire libre 🚵‍♂️
 
-## ⚡ Tecnologías
+### ⚡ Tecnologías
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 !![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
