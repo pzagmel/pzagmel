@@ -1,8 +1,8 @@
 ## Hola! 😁 😁 , Soy Pedro Zagal Melani - Full Stack Web Developer Jr!
 - 💡Estoy seguro de que puedo ofrecer mis habilidades en el Front-end para proyectos que lo necesiten, pero también estoy emocionado de aprender más sobre el Back-end y trabajar en proyectos que me permitan desarrollar habilidades en esa área.🖥️
-- 🌱Actualmente aprendiendo todo 🤓
-- 🦴Kinesiólogo incursionando en el mundo de la tecnología💻🚀
-- ⚽Amante del deporte y la vida al aire libre 🚵‍♂️
+- 🌱Actualmente aprendiendo todo. 🤓
+- 🦴Kinesiólogo incursionando en el mundo de la tecnología.💻🚀
+- ⚽Amante del deporte y la vida al aire libre. 🚵‍♂️
 
 ### ⚡ Tecnologías
 
@@ -28,6 +28,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-
+### Contáctame:
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/pzagmel#gh-light-mode-only)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pzagmel&theme=gruvbox&hide=dockerfile,mako,shell&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
