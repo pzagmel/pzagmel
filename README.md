@@ -5,4 +5,4 @@
 
 ### Lenguajes
 
-[<img align="left" alt="html" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png"/>]
+<img  alt="html" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png"/>
