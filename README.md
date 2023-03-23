@@ -5,4 +5,4 @@
 
 ### Lenguajes
 
-[<img align="left alt="asd width="22px" src="https://raw-githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>]
+[<img align="left" alt="html" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png"/>]
