@@ -29,6 +29,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### Contáctame:
- <img style="display:inline-block;" alt="https://linkedin.com/in/pzagmel" width="50px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"/>
+ <a href="https://linkedin.com/in/pzagmel"><img style="display:inline-block;" alt="LinkedIn" width="50px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"/></a>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pzagmel&theme=gruvbox&hide=dockerfile,mako,shell&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
