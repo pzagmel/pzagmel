@@ -5,13 +5,7 @@
 
 ### Lenguajes
 
-<img width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png"/>
-<img width="30px" src="https://cdn-icons-png.flaticon.com/512/732/732190.png"/>
-<img width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png"/>
-<img width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png"/>
-<img width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png"/>
-<img width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png"/>
-<img width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png"/>
-<img width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png"/>
-<img width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png"/>
-
+<div style="text-align:center;">
+  <img style="display:inline-block;" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png"/>
+  <img style="display:inline-block;" width="30px" src="https://cdn-icons-png.flaticon.com/512/732/732190.png"/>
+</div>
