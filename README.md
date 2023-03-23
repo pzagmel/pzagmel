@@ -1,7 +1,7 @@
-## Hola, Soy Pedro Zagal Melani - Full Stack Web Developer Jr!
+## Hola! 😁 😁 , Soy Pedro Zagal Melani - Full Stack Web Developer Jr!
 - 💡Estoy seguro de que puedo ofrecer mis habilidades en el Front-end para proyectos que lo necesiten, pero también estoy emocionado de aprender más sobre el Back-end y trabajar en proyectos que me permitan desarrollar habilidades en esa área.🖥️
 - 🌱Actualmente aprendiendo todo 🤓
-- 🦴Un Kinesiólogo incursionando en el mundo de la tecnología💻🚀
+- 🦴Kinesiólogo incursionando en el mundo de la tecnología💻🚀
 - ⚽Amante del deporte y la vida al aire libre 🚵‍♂️
 
 ### ⚡ Tecnologías
