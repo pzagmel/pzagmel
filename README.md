@@ -32,3 +32,5 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pzagmel&theme=gruvbox&hide=dockerfile,mako,shell&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![pzagmel GitHub stats](https://github-readme-stats.vercel.app/api?username=pzagmel&theme=yeblu_icons=true)
