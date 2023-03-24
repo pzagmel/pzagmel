@@ -31,8 +31,11 @@
  <a href="https://linkedin.com/in/pzagmel"><img style="display:inline-block;" alt="LinkedIn" width="50px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"/></a>
 
 
-api/pin?username=pzagmel&repo=github-readme-stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pzagmel&theme=algolia&hide=dockerfile,mako,shell&layout=compact)](https://github.com/pzagmel/github-readme-stats)
 
 ![pzagmel GitHub stats](https://github-readme-stats.vercel.app/api?username=pzagmel&theme=algolia&show_icons=true)
+
+<a href="https://github.com/pzagmel/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pzagmel&repo=github-readme-stats" />
+</a>
