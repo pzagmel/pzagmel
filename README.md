@@ -36,4 +36,4 @@
 
 ![pzagmel GitHub stats](https://github-readme-stats.vercel.app/api?username=pzagmel&theme=algolia&show_icons=true)
 
-[![pzagmel](https://github-readme-stats.vercel.app/api/pin/?username=pzagmel&repo=nombre-del-repositorio)](enlace-al-repositorio)
+
